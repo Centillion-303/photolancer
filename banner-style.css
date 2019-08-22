@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+}
+
+#banner{
+    background-image: linear-gradient(to right, #b3b3b3,#404040);
+    color: white;
+    padding-top: 5%;
+}
+.promo-title{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+#banner a{
+    color: white;
+    text-decoration: none;
+}
+.bottom-img{
+    width: 100%;
+}
